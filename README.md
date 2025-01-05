@@ -1,7 +1,7 @@
 # Online Auction System
 
 ## Overview
-The Online Auction System is a dynamic, web-based platform built to streamline online auctions. Drawing inspiration from platforms like Etsy, eBid, and eBay, it empowers users to buy and sell items with ease. The system features a user-friendly interface, secure bidding mechanisms, and efficient data management powered by a relational database. Designed using technologies like JavaScript, Java, JSP, JBBC, HTML/CSS, and MySQL, the application is hosted locally on an Apache Tomcat server.
+The Online Auction System is a dynamic, web-based platform built to streamline online auctions. Drawing inspiration from platforms like Etsy, eBid, and eBay, it empowers users to buy and sell items with ease. Originally designed for auctioning different types of vehicles, the project offers robust and flexible functionality that can easily be adapted for other types of auctions by modifying the underlying SQL script. The system features a user-friendly interface, secure bidding mechanisms, and efficient data management powered by a relational database. Designed using technologies like JavaScript, Java, JSP, JBBC, HTML/CSS, and MySQL, the application is hosted locally on an Apache Tomcat server.
 
 ## Key Features
 
@@ -118,7 +118,7 @@ Ensure you have the following installed:
 - Download and install MySQL Server.
 - Launch MySQL Workbench and establish a connection to your local server.
 - Import the database schema:
-  - File → Open SQL script → Select "OnlineAuctionProject.sql" → Execute.
+  - File → Open SQL script → Select "onlineauction.sql" → Execute.
 
 #### 2. Install Eclipse IDE:
 - Download and install Eclipse IDE.
